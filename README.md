@@ -1,6 +1,6 @@
-# weathermonitor
+# WeatherMonitor
 
-WeatherMonitor
+
 
 ## Getting Started
 
